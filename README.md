@@ -17,4 +17,20 @@ Content
 | [0584-find-customer-referee](https://github.com/psgupta712/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/psgupta712/LeetCode/tree/master/0595-big-countries) |
 | [1827-invalid-tweets](https://github.com/psgupta712/LeetCode/tree/master/1827-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
