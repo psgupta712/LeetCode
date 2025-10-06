@@ -45,6 +45,7 @@ Content
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -63,4 +64,8 @@ Content
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
