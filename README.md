@@ -46,6 +46,7 @@ Content
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -59,6 +60,7 @@ Content
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -68,4 +70,5 @@ Content
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
