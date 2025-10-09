@@ -45,6 +45,7 @@ Content
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
@@ -72,6 +73,7 @@ Content
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
