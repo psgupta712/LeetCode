@@ -8,6 +8,7 @@ Content
 | ------- |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String Matching
 |  |
 | ------- |
@@ -55,12 +56,14 @@ Content
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0480-sliding-window-median](https://github.com/psgupta712/LeetCode/tree/master/0480-sliding-window-median) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0480-sliding-window-median](https://github.com/psgupta712/LeetCode/tree/master/0480-sliding-window-median) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +75,7 @@ Content
 | [0088-merge-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
