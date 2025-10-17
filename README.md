@@ -9,6 +9,7 @@ Content
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Content
 | ------- |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Content
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +113,8 @@ Content
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/psgupta712/LeetCode/tree/master/0480-sliding-window-median) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
