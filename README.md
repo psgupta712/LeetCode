@@ -41,6 +41,7 @@ Content
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -117,4 +118,8 @@ Content
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
