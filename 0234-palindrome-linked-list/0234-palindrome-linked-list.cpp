@@ -11,7 +11,7 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(head == NULL || head->next == NULL){
+        if(head->next == NULL){
             return 1;
         }
         int count = 0;
