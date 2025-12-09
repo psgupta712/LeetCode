@@ -61,6 +61,7 @@ Content
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0480-sliding-window-median](https://github.com/psgupta712/LeetCode/tree/master/0480-sliding-window-median) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1929-concatenation-of-array](https://github.com/psgupta712/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/psgupta712/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/psgupta712/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
@@ -138,4 +139,8 @@ Content
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/psgupta712/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
