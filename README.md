@@ -8,6 +8,7 @@ Content
 | ------- |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -106,6 +107,7 @@ Content
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/psgupta712/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -145,10 +147,12 @@ Content
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/psgupta712/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
