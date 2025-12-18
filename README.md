@@ -8,6 +8,7 @@ Content
 | ------- |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
@@ -144,6 +145,7 @@ Content
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -152,4 +154,8 @@ Content
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/psgupta712/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
