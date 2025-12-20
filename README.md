@@ -56,6 +56,7 @@ Content
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/psgupta712/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ Content
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/psgupta712/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -162,4 +164,8 @@ Content
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/psgupta712/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/psgupta712/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
