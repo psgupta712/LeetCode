@@ -38,6 +38,7 @@ Content
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/psgupta712/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Recursion
@@ -59,6 +60,7 @@ Content
 | [0084-largest-rectangle-in-histogram](https://github.com/psgupta712/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/psgupta712/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
