@@ -6,6 +6,7 @@ Content
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -54,6 +55,7 @@ Content
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
@@ -170,4 +172,8 @@ Content
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/psgupta712/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
