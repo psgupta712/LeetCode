@@ -34,6 +34,7 @@ Content
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/psgupta712/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ Content
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/psgupta712/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
@@ -141,6 +143,7 @@ Content
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/psgupta712/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/psgupta712/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/psgupta712/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/psgupta712/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
