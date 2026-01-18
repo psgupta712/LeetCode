@@ -16,13 +16,12 @@ public:
             }
         }
 
-        int result = 0;
+
         if(conso == 0){
             return 0;
         }
         else{
-            result = floor(vowel/conso);
+            return floor(vowel/conso);
         }
-        return result;
     }
 };
