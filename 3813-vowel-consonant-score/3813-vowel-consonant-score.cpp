@@ -21,7 +21,7 @@ public:
             return 0;
         }
         else{
-            return floor(vowel/conso);
+            return vowel/conso;
         }
     }
 };
