@@ -78,6 +78,7 @@ Content
 | [0480-sliding-window-median](https://github.com/psgupta712/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/psgupta712/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/psgupta712/LeetCode/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/psgupta712/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/psgupta712/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/psgupta712/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -108,6 +109,7 @@ Content
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/psgupta712/LeetCode/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/psgupta712/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/psgupta712/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/psgupta712/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
