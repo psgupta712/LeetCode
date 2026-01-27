@@ -6,6 +6,7 @@ Content
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/psgupta712/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
@@ -36,6 +37,7 @@ Content
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/psgupta712/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/psgupta712/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ Content
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/psgupta712/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
