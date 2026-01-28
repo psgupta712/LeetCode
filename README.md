@@ -73,6 +73,7 @@ Content
 | [0088-merge-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/psgupta712/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/psgupta712/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/psgupta712/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@ Content
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/psgupta712/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/psgupta712/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -204,4 +206,8 @@ Content
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/psgupta712/LeetCode/tree/master/0707-design-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/psgupta712/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
