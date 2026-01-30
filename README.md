@@ -10,6 +10,7 @@ Content
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/psgupta712/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -96,6 +97,7 @@ Content
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/psgupta712/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/psgupta712/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/psgupta712/LeetCode/tree/master/0480-sliding-window-median) |
@@ -114,6 +116,7 @@ Content
 | [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/psgupta712/LeetCode/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/psgupta712/LeetCode/tree/master/1200-minimum-absolute-difference) |
