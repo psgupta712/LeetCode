@@ -11,6 +11,7 @@ Content
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/psgupta712/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/psgupta712/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
@@ -42,6 +43,7 @@ Content
 | [0002-add-two-numbers](https://github.com/psgupta712/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/psgupta712/LeetCode/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/psgupta712/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
