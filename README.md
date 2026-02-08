@@ -69,6 +69,7 @@ Content
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/psgupta712/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
@@ -112,6 +113,7 @@ Content
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/psgupta712/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/psgupta712/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
@@ -154,6 +156,7 @@ Content
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/psgupta712/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/psgupta712/LeetCode/tree/master/0611-valid-triangle-number) |
