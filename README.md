@@ -165,6 +165,7 @@ Content
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/psgupta712/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/psgupta712/LeetCode/tree/master/0645-set-mismatch) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/psgupta712/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
@@ -229,4 +230,8 @@ Content
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/psgupta712/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/psgupta712/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
