@@ -71,6 +71,7 @@ Content
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/psgupta712/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/psgupta712/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/psgupta712/LeetCode/tree/master/0053-maximum-subarray) |
@@ -119,6 +120,7 @@ Content
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/psgupta712/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/psgupta712/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/psgupta712/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -138,6 +140,7 @@ Content
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/psgupta712/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/psgupta712/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/psgupta712/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgupta712/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/psgupta712/LeetCode/tree/master/0031-next-permutation) |
