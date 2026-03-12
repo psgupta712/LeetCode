@@ -11,6 +11,7 @@ Content
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/psgupta712/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgupta712/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/psgupta712/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/psgupta712/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/psgupta712/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@ Content
 | [0002-add-two-numbers](https://github.com/psgupta712/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/psgupta712/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/psgupta712/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/psgupta712/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/psgupta712/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1013-fibonacci-number](https://github.com/psgupta712/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -172,6 +174,7 @@ Content
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/psgupta712/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/psgupta712/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/psgupta712/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/psgupta712/LeetCode/tree/master/0645-set-mismatch) |
@@ -215,6 +218,7 @@ Content
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/psgupta712/LeetCode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/psgupta712/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/psgupta712/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
