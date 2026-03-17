@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool isIsomorphic(string s, string t) {
+
+        int m1[256] = {0};
+        int m2[256] = {0};
+
+        int n = s.size();
+
+        for (int i = 0; i < n; ++i) {
+
+            // If previously seen positions differ
+            if (m1[s[i]] != m2[t[i]])
+                return false;
+
+            // Store last seen position
+            m1[s[i]] = i + 1;
+            m2[t[i]] = i + 1;
+        }
+
+        return true;
+    }
+};
