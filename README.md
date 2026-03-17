@@ -14,6 +14,7 @@ Content
 | [0067-add-binary](https://github.com/psgupta712/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/psgupta712/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/psgupta712/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/psgupta712/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/psgupta712/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/psgupta712/LeetCode/tree/master/0812-rotate-string) |
@@ -112,6 +113,7 @@ Content
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgupta712/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/psgupta712/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/psgupta712/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/psgupta712/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/psgupta712/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/psgupta712/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/psgupta712/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
